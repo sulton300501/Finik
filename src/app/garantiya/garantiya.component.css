@@ -1,0 +1,90 @@
+
+.text_dostavka{
+    font-size: 52px;
+    font-weight: 500;
+    margin-right: 35px;
+}
+
+.service_title{
+font-size: 24px;
+font-weight: 500;
+color: green;
+}
+
+.service_garanty_title{
+font-size: 20px;
+font-weight: 350;
+}
+.garanty_couple_one{
+    width: 440px;
+    height: 210px;
+    background-color: #F5F5F5 ;
+    margin-top: 50px;
+    
+    
+}
+
+.name_title{
+    padding: 40px;
+}
+.service_garanty_title{
+    margin-top: 30px;
+}
+
+.garanty_service_couple{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dostavka_glavniy{
+    width: 1920px;
+    margin: auto;
+}
+
+.title_service{
+font-size: 24px;
+font-weight: 350;
+line-height: 33px;
+}
+
+.title_service_name{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+.container_dostavka{
+    width: 1740px;
+    margin: auto;
+}
+
+.image_title{
+height: 700px;
+width: 100%;
+margin-top: 30px;
+}
+.garanty_title{
+  font-size: 21px;
+    transform: translateY(-38px);
+}
+
+.span_rf{
+    color: green;
+}
+
+.two_span{
+    font-size: 24px;
+    font-weight: 500;
+    margin: 30px 0px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    
+   
+}
+
+.two_title{
+    transform: translateY(40px);
+}
+.title_service{
+    margin-top: 40px;
+}
